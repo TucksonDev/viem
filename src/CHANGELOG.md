@@ -1,5 +1,11 @@
 # viem
 
+## 1.20.4
+
+### Patch Changes
+
+- [#1608](https://github.com/wevm/viem/pull/1608) [`2b84d795`](https://github.com/wevm/viem/commit/2b84d7956e4061ff7ea7ac915f953a4d064f7575) Thanks [@cong1223](https://github.com/cong1223)! - Added BitTorrent & Wemix chains.
+
 ## 1.20.3
 
 ### Patch Changes
